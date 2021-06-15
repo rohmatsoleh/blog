@@ -1,5 +1,4 @@
 ---
-layout: post
 title: post pertama saya
 tags: [books, test]
 ---
